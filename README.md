@@ -1,2 +1,2 @@
 # justwatchnow
-justwatchnow
+https://www.justwatchnow.ml
