@@ -18,7 +18,8 @@ After installing JustWatchNow, you can choise your desired addon. The APP is the
 ## Screenshots
 
 ![App Screenshot](https://lh4.googleusercontent.com/xiXM7UohvWDBMS8TlCKW1r9pLhGRyUTuo12f15SP6e5zLz9uFWsBDu2OxM56A9KaRUKxGYYTQ1qFM6F2S5Ek9lGBLSmmtZnXUYVpeQW0JwI4nLIP0_9Iq9EkuP0DzMT2rw=w1280)
-![App Screenshot](https://lh3.googleusercontent.com/bxsxNKCUhMakJk4LRdTdBQwV588qCKWJZpd-6TXjl1LO8d6BaYYjIB2byPCv7i9HwuLoaDh7b-yPiyP1NgK2R5Fwr_5QhUVvMocWKccgloN1xmmECCCXHb-PXOS0agVjPg=w1280)
+![App Screenshot](/IMG/83.jpg
+)
 
 
 ## Demo
